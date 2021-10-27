@@ -1,7 +1,7 @@
 # I-Am-Poor
 This is a Simple iOS application named "I Am Poor" that shows a screen which i have made during learning about designing an iOS application using UI Builder elements in Main.storyboard(Xcode).
 
-## What i have learned while building "I Am Rich" application ?
+## What i have learned while building "I Am Poor" application ?
 
 --> Designing the app in Xcode using Interface Builder(iOS Components).
 
